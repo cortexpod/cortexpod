@@ -1,10 +1,10 @@
 ## Cortexpod - The chip built for agents that think together! 👋
 
-CortexPod is a silicon-first AI infrastructure company building a custom inference chip — the **CortexChip** — purpose-designed for the way AI actually runs in 2026: not as a single large model, but as a mesh of specialized agents working in parallel.
+CortexPod is a silicon-first AI infrastructure company building a custom inference chip, the **CortexChip**, purpose-designed for the way AI actually runs in 2026: not as a single large model, but as a mesh of specialized agents working in parallel.
 
-Where a standard GPU like the H100 can juggle roughly 8 concurrent model contexts, the CortexChip handles **256 simultaneously** — thanks to its core innovation, the **CortexMesh Fabric Controller (CMFC)**, a dedicated silicon block that routes state and shared context between agents in under 2ms, with no software scheduling overhead.
+Where a standard GPU like the H100 can juggle roughly 8 concurrent model contexts, the CortexChip handles **256 simultaneously**, thanks to its core innovation, the **CortexMesh Fabric Controller (CMFC)**, a dedicated silicon block that routes state and shared context between agents in under 2ms, with no software scheduling overhead.
 
-Deployed via a distributed platform called **Pods**, CortexPod targets the Asian enterprise market — financial institutions, healthcare systems, and software companies in Vietnam, India, and Singapore — where NVIDIA supply is constrained and GPU costs are prohibitive. By building on a TSMC-free supply chain (Samsung SF12 / GlobalFoundries 12LP+), CortexPod delivers comparable agent-mesh throughput to an H100 cluster at one-tenth the cost and less than half the power.
+Deployed via a distributed platform called **Pods**, CortexPod targets the Asian enterprise market, financial institutions, healthcare systems, and software companies in Vietnam, India, and Singapore, where NVIDIA supply is constrained and GPU costs are prohibitive. By building on a TSMC-free supply chain (Samsung SF12 / GlobalFoundries 12LP+), CortexPod delivers comparable agent-mesh throughput to an H100 cluster at one-tenth the cost and less than half the power.
 
 <!--
 **cortexpod/cortexpod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
